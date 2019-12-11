@@ -1,0 +1,10 @@
+.nav {
+    float: left;
+    background: black;
+    padding: 10px;
+}
+
+.item {
+    background: white;
+    margin-bottom: 10px;
+}
